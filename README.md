@@ -1,3 +1,3 @@
 # devops-aug-12
 
-lorem ipsun and such
+lorem ipsum and such
